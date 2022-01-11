@@ -17,10 +17,8 @@ a {
 	top: 90%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	width: 200px;
-	height: 15px;
-	background: #FAEDF0;
-	border-radius: 5px;
+	font-size: 19px;
+	color: white;
 }
 .copyrg {
 	

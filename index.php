@@ -65,7 +65,7 @@
  	$sonuc = ($quizodevmidterm + $final) /2;
 
  	echo "<div class='sonuc'>";
- 	    print "Ders Ortalaması: ";
+ 	    print "Ortalaman: ";
         print $sonuc; 
         echo "</div>";
  	
