@@ -42,7 +42,9 @@
 <label>Final Notu</label>
 <span></span>
 </div>
-
+<div class ="copyrg"> 
+<p>MehmetDönmez tarafından oluşturuldu, Kaynak kodlara ulaşmak için <a href="https://github.com/wazp2/mdonmez.github.io" target="_blank">tıkla.</a></p>
+</div>
 <div class ="pass"> 
 <button type="submit" name="submit" value="submit" >Hesapla</button>
 </div>
